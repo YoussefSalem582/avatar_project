@@ -22,12 +22,6 @@ Ensure you have the following installed on your machine:
 
 ## Installation
 
-### Clone the Repository
-```bash
-git clone https://github.com/wass08/r3f-ai-language-teacher.git
-cd r3f-ai-language-teacher
-```
-
 ### Install Dependencies
 
 Using npm:
@@ -68,7 +62,7 @@ npm start
 Here’s an overview of the folder structure:
 
 ```bash
-r3f-ai-language-teacher/
+avatar_project/
 ├── src/
 │   ├── components/        # React components for UI and 3D environment
 │   ├── services/          # API interactions (e.g., OpenAI)
@@ -91,12 +85,3 @@ Contributions are welcome! Here's how you can help:
 4 - Push your branch (git push origin feature-branch-name).
 
 5 - Submit a pull request.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
