@@ -24,10 +24,10 @@ Ensure you have the following installed on your machine:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/wass08/r3f-ai-language-teacher.git
-cd r3f-ai-language-teacher
+git clone https://github.com/YoussefSalem582/avatar_project.git
+cd avatar_project
 ```
-
+https://github.com/YoussefSalem582/avatar_project.git
 ### Install Dependencies
 
 Using npm:
